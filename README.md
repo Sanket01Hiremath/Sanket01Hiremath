@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Sanket Hiremath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanket01Hiremath&label=Profile%20views&color=0e75b6&style=flat" alt="Sanket Hiremath" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanket01Hiremath&label=Profile%20views&color=0e75b6&style=flat" alt="Sanket01Hiremath" /> </p>
 <h3 align="center">I'm a Bachelor of science graduate 🎓 from Karnataka University Dharwad 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Java Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h3>
 
 <div>
@@ -22,6 +22,6 @@
   <p align="center">
     <a href="https://github.com/Sanket01Hiremath/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sanket01Hiremath&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket01Hiremath&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="piyush-agrawal6" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket01Hiremath&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sanket01Hiremath" height="192px"/>
   <br/>
   </p>
