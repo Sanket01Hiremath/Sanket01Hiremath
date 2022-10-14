@@ -1,25 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sanket Hiremath</h1>
+<h1 align="center">Hi , I'm Sanket Hiremath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-agrawal6&label=Profile%20views&color=0e75b6&style=flat" alt="Sanket Hiremath" /> </p>
 <h3 align="center">I'm a Bachelor of science graduate 🎓 from Karnataka University Dharwad 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Java Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h3>
 
 
-<h1 align="center">Hi , I'm Sanket Hiremath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-agrawal6&label=Profile%20views&color=0e75b6&style=flat" alt="Sanket Hiremath" /> </p>
 
-<div>
-## :sassy_man:  About me
- I'm a graduate in Physical Science 🎓 from Sambalpur University Odisha 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
-
-<div>
-
-- 🔭 I’m currently working on [E-commerce Website](https://comforting-biscuit-83ad73.netlify.app/)
-- 🔭 I’m currently working on my [Porfolio](https://piyush-agrawal6.github.io/)
-
-- 🌱 I’m currently learning **MERN STACK**
+- 🔭 I’m currently working on my skills
 
 @@ -22,19 +17,38 @@
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/the-piyush-agrawal/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/Sanket01Hiremath/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YqudF6pzn_5oJRgxon9qcHVbDyPoogq2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BNfx9JUATplmPlSaNr259GnR6Ide-FIB/view?usp=sharing)
 </div
 
 </div>
