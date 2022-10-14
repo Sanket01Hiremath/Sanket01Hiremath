@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Piyush Agrawal</h1>
-<h3 align="center">I'm a graduate in Physical Science 🎓 from Sambalpur University Odisha 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h3>
+<h1 align="center">Hi 👋, I'm Sanket Hiremath</h1>
+<h3 align="center">I'm a Bachelor of science graduate 🎓 from Karnataka University Dharwad 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Java Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h3>
 
 
-<h1 align="center">Hi , I'm Piyush Agrawal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-agrawal6&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-agrawal6" /> </p>
+<h1 align="center">Hi , I'm Sanket Hiremath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-agrawal6&label=Profile%20views&color=0e75b6&style=flat" alt="Sanket Hiremath" /> </p>
 
 <div>
 ## :sassy_man:  About me
