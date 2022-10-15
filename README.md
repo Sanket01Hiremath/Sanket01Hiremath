@@ -10,7 +10,7 @@
 </div>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools 👉 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools 👉 ![java](https://img.shields.io/badge/-java-000000?style=flat&logo=JAVA) ![MySQL](https://img.shields.io/badge/-mysql-000000?style=flat&logo=mysql) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) ![Eclipse](https://img.shields.io/badge/-eclipse-000000?style=flat&logo=eclipse) ![VScode](https://img.shields.io/badge/-Visual%20Studio%20code-000000?style=flat&logo=Visual%20Studio%20code)<br />
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 👉 [![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)](https://Sanket01Hiremath.github.io/) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Sanket01Hiremath/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sankethrmth1234@gmail.com)
