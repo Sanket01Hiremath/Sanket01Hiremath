@@ -20,8 +20,8 @@
   
   <br/>
   <p align="center">
-    <a href="https://github.com/Sanket01Hiremath/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sanket01Hiremath&theme=radical&show_icons=true" height="192px"/></a>
+    <a href="https://github.com/Sanket01Hiremath/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sanket01hiremath&theme=radical" height="192px"/></a>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket01Hiremath&langs_count=10&theme=radical&show_icons=true" alt="Sanket01Hiremath" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket01Hiremath&layout=compact&theme=radical" alt="Sanket01Hiremath" height="192px"/>
   <br/>
   </p>
