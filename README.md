@@ -13,7 +13,7 @@
 	
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 👉 [![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=Book&logoColor=white)](https://Sanket01Hiremath.github.io/) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Sanket01Hiremath/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sankethrmth1234@gmail.com)
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Statestics :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Statistics :
 <p align="center">
 <a href="https://github.com/Sanket01Hiremath/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sanket01hiremath&show_icons=true&theme=dark" height="192px"/></a>
   &nbsp;
